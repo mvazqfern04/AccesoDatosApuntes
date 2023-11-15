@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><libreria>
+    <libro/>
+    <libro>
+        <El_senor_de_los_anillos/>
+    </libro>
+    <libro>
+        <El_senor_de_los_anillos/>
+    </libro>
+    <libro>
+        <El_senor_de_los_anillos/>
+    </libro>
+<libro>
+    <El_senor_de_los_anillos>hola señor</El_senor_de_los_anillos>
+</libro>
+<libro><El_senor_de_los_anillos>hola señor</El_senor_de_los_anillos></libro></libreria>
